@@ -1,0 +1,28 @@
+---
+title: "欢迎你来到这里。以后，就听我的碎碎念吧"
+subtitle: "答应我，以下是我的秘密，请不要宣传，但我们之间可以交流"
+author: "黄逸杰"
+date: "from 2024-03-20"
+output:
+  xaringan::moon_reader:
+    css: 
+      - default
+      - 'css/zh-CN.css'
+      - 'css/Custumed_Style.css'
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+<span style="font-size: 20px;">-------------------------------------------</span> <br>
+<span style="font-size: 20px;">我在抄别人的代码，一切都还在学习当中</span> <br>
+<span style="font-size: 20px;">我不知道这些代码是什么意思</span> <br>
+<span style="font-size: 18px;">render("Feeling and others.Rmd", html_document())</span> <br>
+<span style="font-size: 18px;">上面这个代码可以直接复制运行来生成html</span> <br>
+<span style="font-size: 18px;">那说说今天吧，我6点半才睡觉，因为突然迷上了网络小短剧。人至少在一定程度上受激素控制，所以也就有了“上瘾”的议题</span> <br>
+<span style="font-size: 18px;">早上九点多就醒了，在宿舍是无法睡到中午的，而且对这个阶段的我来说，也绝对是不能睡到中午的。我需要那块敲门砖，我想实现自己的理想，我想做更多自己想做的事情。这句话的颗粒度非常粗糙，它包含着太多太多的内容……</span> <br>
+<span style="font-size: 18px;">但每一刻都是最重要的现在，无法反悔就看向未来。祝我自己，拥有与激素对抗的能力</span> <br>
+<span style="font-size: 15px;">2024.3.20</span> <br>
+
+---
