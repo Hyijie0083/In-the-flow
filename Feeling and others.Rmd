@@ -40,4 +40,7 @@ output:
 <span style="color: grey; font-size: 18px;">I want to practice my English skills, so from now on, I will maintain a daily record in English. I understand that my skills are currently at a beginner's level, but it will be interesting to witness my growth, right? I will use GPT to refine these sentences as a step towards mastering the natural flow of the language. This method is also known as predictive learning.——GPT </span><br>
 <span style="font-size: 15px;">3.21</span> <br>
 ---
-
+<span style="font-size: 18px;"> It is surprised that I refreshed myself just after a idea: I should overcome it. It brings me a nice experience in the later. For me, passing the exam is the most important thing over all other things. I need a brick to another stage. </span><br>
+<span style="font-size: 18px;"> "I was surprised by how refreshed I felt after simply embracing the idea that I should overcome the challenge. It led to a positive experience subsequently. For me, passing the exam takes precedence over everything else. It's a stepping stone to the next stage." </span><br>
+<span style="font-size: 15px;">3.22</span> <br>
+---
