@@ -41,4 +41,4 @@ output:
 <span style="font-size: 18px;"> "I was surprised by how refreshed I felt after simply embracing the idea that I should overcome the challenge. It led to a positive experience subsequently. For me, passing the exam takes precedence over everything else. It's a stepping stone to the next stage." </span><br>
 <span style="font-size: 15px;">3.22</span> <br>
 ---
-<span style="font-size: 18px;">终于变成了PPT模式！！！！！！！！</span> <br>
+<span style="font-size: 18px;">终于变成了PPT模式！！！！！！！！也终于解决了上次未完成的任务……爽啊！！！</span> <br>
