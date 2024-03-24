@@ -59,6 +59,10 @@ _______
 <span style="font-size: 18px;">晚睡晚起给我造成挺大困扰的。身体的疲惫是一方面（虽然仗着年轻，还算吃得消，但之前的教育使得我对熬夜这类“伤身”的事情，有“合理”的担忧），最让我不适的是与自己的失约以及与考研的失约。我的脑海里始终回响着东哥的话：“你现在最重要的是考研，你要把90%的精力花在考研上。”，再加之社会上的榜样总是披星戴月，让我即使一天做了很多事情也把注意放在了那段回去，但实实在在没在学习的时间。或许我应该在督促自己之后更多地把注意放在可控的未来，以及真正地做到可控。嗯，这是我一直想做但还未做到的事。可能考研的过程会养成这样的能力吧，那样让我更好~</span> <br>
 
 <span style="font-size: 18px;">3.24</span> <br>
-
-
+---
+background-image:url(https://upload.wikimedia.org/wikipedia/commons/e/ec/Terrier_mixed-breed_dog.jpg)
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+日拱一卒，谁懂【哭】 3.25 凌晨12：08
 
