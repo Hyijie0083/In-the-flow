@@ -65,4 +65,15 @@ background-image:url(https://upload.wikimedia.org/wikipedia/commons/e/ec/Terrier
 options(htmltools.dir.version = FALSE)
 ```
 日拱一卒，谁懂【哭】 3.25 凌晨12：08
+---
+
+<span style="font-size: 18px;">今天好晚，23：28还在图书馆。但是过了很爽的两小时，在用自己的智力获得很多东西，可能有尊重，崇拜，喜欢等等。我确实喜欢那些东西，也确实享受地位的提升。或许获得地位的提升本身并没有错，我没有想过我会利用它做什么，反而可以引导他们成长，引导他们做更多有益的事。发现自己，正视自己，然后才能事半功倍。</span> <br>
+
+<span style="font-size: 18px;">3.25</span> <br>
+
+
+
+
+
+
 
