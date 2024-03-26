@@ -71,7 +71,9 @@ options(htmltools.dir.version = FALSE)
 
 <span style="font-size: 18px;">3.25</span> <br>
 
-
+---
+<span style="font-size: 18px;">今天的汇报吸收了lsq那种很稳的风格，并且展示了一个自认为还挺漂亮的汇报。绝对不是风格吸引了我，而是注入了“稳定”的元素后我可以更靠近我理想中的样子。</span> <br>
+<span style="font-size: 18px;">3.26</span> <br>
 
 
 
