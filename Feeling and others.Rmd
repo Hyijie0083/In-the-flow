@@ -75,7 +75,12 @@ options(htmltools.dir.version = FALSE)
 <span style="font-size: 18px;">今天的汇报吸收了lsq那种很稳的风格，并且展示了一个自认为还挺漂亮的汇报。绝对不是风格吸引了我，而是注入了“稳定”的元素后我可以更靠近我理想中的样子。</span> <br>
 <span style="font-size: 18px;">3.26</span> <br>
 
+---
+<span style="font-size: 18px;">"I couldn't have another friendship." I hold this belief firmly before. As I reading a psychological chapter about "intimate relationship", I suddenly feel sad that after I graduate from SHNU, maybe it is hard for me to see my little group. people about wjyy,zyt,zyj and cl.They had given me a lot support when I was in the bottom. I know that, I have consider them as my friends in college.</span> <br>
 
 
+<span style="color:grey;font-size: 18px;">Before, I firmly believed that I couldn't have another friendship. But as I was reading a psychological chapter about 'intimate relationships,' I suddenly felt sad realizing that after I graduate from SHNU, it might be difficult for me to see my close friends—WJYY, ZYT, ZYJ, and CL again. They provided me with a great deal of support when I was at a low point. I now recognize that I have come to consider them as my friends in college.</span> <br>
+
+<span style="font-size: 18px;">对我而言，拥有这些是很难得的❤3.27</span> <br>
 
 
