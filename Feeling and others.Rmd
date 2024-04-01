@@ -110,3 +110,13 @@ options(htmltools.dir.version = FALSE)
 <span style="font-size: 18px;">明天就正式踏入四月份了，我希望四月份的我……按计划把要看的书看完，坚持锻炼，少一些晚睡的时刻，经常想起“再完成五页”，以及，记得你有很多爱你的人，也记得去爱他们♥</span><br>
 
 <span style="font-size: 18px;">3.31</span> <br>
+
+---
+<span style="font-size: 18px;">I am extremely admire that people with liberal talent, who can write down the article in grace. It is awkward for me that my expression in English is as weak as the beginner. For this, I plan to write more to find the trick in this field. I also afraid that it is a wrong and time-wasted way to get the achievement. But until to now, I have passion with it.</span> <br>
+
+<span style="color:grey;font-size: 18px;">I admire people with exceptional literary talent, those who can write graceful articles. It's awkward for me that my expression in English is as weak as a beginner's. Because of this, I plan to write more to improve my skills in this area. I'm also afraid that this might be an ineffective and time-consuming way to achieve my goals. But so far, I've been passionate about it</span><br>
+
+<span style="font-size: 18px;">4.1</span> <br>
+
+
+
