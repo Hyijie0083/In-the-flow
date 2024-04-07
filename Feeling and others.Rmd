@@ -131,3 +131,10 @@ options(htmltools.dir.version = FALSE)
 
 <span style="font-size: 18px;">4.3</span> <br>
 
+---
+<span style="font-size: 18px;">It has a long time to see you guys. But today I take a bad news here that this daily updating may change to be a "random time". I have too many things want to do, and I wanna pass the exam for master's degree. So... If u wait for this channel, please be more patient, I will back in a correct way.</span><br>
+
+
+
+
+
