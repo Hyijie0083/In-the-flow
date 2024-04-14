@@ -134,7 +134,11 @@ options(htmltools.dir.version = FALSE)
 ---
 <span style="font-size: 18px;">It has a long time to see you guys. But today I take a bad news here that this daily updating may change to be a "random time". I have too many things want to do, and I wanna pass the exam for master's degree. So... If u wait for this channel, please be more patient, I will back in a correct way.</span><br>
 
+---
+<span style="font-size: 18px;">With the intensity of desire, I'm not intrigued in the achievement of certificates like master's degree or ph.D. What really attract me is the qualification that I can do further research and study Bayes, modeling et al. I really wanna push the development of human beings.</span><br>
 
+<span style="font-size: 18px;color:grey">Driven by a fervent passion, I'm not particularly interested in the mere attainment of academic degrees such as a master's or a Ph.D. What genuinely captivates me is acquiring the ability to conduct further research into areas like Bayesian theory and modeling. I'm eager to contribute to the advancement of human knowledge.
+</span><br>
 
-
+<span style="font-size: 18px;">4.14</span> <br>
 
