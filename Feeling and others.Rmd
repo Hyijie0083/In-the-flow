@@ -141,4 +141,16 @@ options(htmltools.dir.version = FALSE)
 </span><br>
 
 <span style="font-size: 18px;">4.14</span> <br>
+---
+<span style="font-size: 18px>I hope this email finds you well. My name is Yijie Huang, a junior student in Shanghai normal university, China.
+     These days I was reading your paper, Examining social reinforcement learning in social anxiety(2023), which give me lots of inspiration about cognitive modeling. I'm really intersted in the cognitive modeling used in psy, but I'm also a beginner in this field. 
+     I read the R package "hBayesDM" carefully, and finnaly knew the parameter "learning rate" and "learning accuracy", that's fascinated (for me). In the mean time, I can't understand the excat method for analysis, so I hope that I can get the data in your work, or give me some guidance from your talent. If you give me the data, I promise I will just used in my practice and not spread it.</span> <br>
+     
+<span style="font-size: 12px;color:grey">Given my keen interest and the stage of my studies, I believe that access to the data from your recent paper would greatly enhance my understanding of cognitive modeling. Therefore, I am humbly requesting if it might be possible to view the data associated with your research for educational purposes.
+I am eager to learn the specific methods of analysis employed in your study, and having the opportunity to work with the actual data would be an incredible learning opportunity. In return, I assure you that I will handle any information shared with the utmost care, using it exclusively for my personal academic development, and will not disseminate it in any form.
+I understand that such requests are not insignificant and respect any terms you might have for sharing your research data. Even if accessing the data is not possible, any guidance or advice you could provide would be deeply appreciated.
+Thank you very much for considering my request. Your work is truly inspiring, and I appreciate any help you can offer as I take my first steps into this fascinating field.
+Kind regards,
+Yijie HuangJunior Student, [Your Department/Major]Shanghai Normal University</span> <br>
 
+<span style="font-size: 18px;">4.15</span> <br>
